@@ -1,0 +1,5 @@
+Indexing of Unstemmed took 135.455382824 seconds.
+Indexing of Porter took 120.428313017 seconds.
+Indexing of Snowball took 127.947610855 seconds.
+Indexing of kgram4 took 173.539384842 seconds.
+Indexing of kgram5 took 146.6264081 seconds.
